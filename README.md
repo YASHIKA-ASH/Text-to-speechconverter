@@ -5,7 +5,8 @@ This is a simple and stylish **Text to Speech Converter Web App** that allows us
 ---
 
 ## 📸 Preview
-![click:](image.png)
+(![Screenshot 2025-04-21 174121](https://github.com/user-attachments/assets/8d49197a-e1cf-4d51-b85b-956ace83eaed)
+)
 
 ---
 
